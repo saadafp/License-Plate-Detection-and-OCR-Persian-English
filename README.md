@@ -39,9 +39,7 @@ Frame
 ├── Persian license plate OCR - photo.py      # Persian, single image
 ├── English license plate OCR - video v1.py   # English, video
 ├── Persian License plate OCR - video v1.py   # Persian, video
-├── model/
-│   ├── best.pt                               # plate detector
-│   └── OCR_weights/best (1).pt               # Persian character detector
+
 
 ```
 
