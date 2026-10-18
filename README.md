@@ -32,6 +32,9 @@ Frame
 
 ```
 .
+├── notebooks/
+│   ├── yolo11-persian-license-plate-for-ocr.ipynb
+│   └── yolo11-persian-license-plate-for-detection.ipynb   
 ├── utils/
 │   ├── __init__.py
 │   └── utils.py                              # shared helpers
@@ -39,7 +42,6 @@ Frame
 ├── Persian license plate OCR - photo.py      # Persian, single image
 ├── English license plate OCR - video v1.py   # English, video
 ├── Persian License plate OCR - video v1.py   # Persian, video
-
 
 ```
 
