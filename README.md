@@ -42,8 +42,7 @@ Frame
 ├── model/
 │   ├── best.pt                               # plate detector
 │   └── OCR_weights/best (1).pt               # Persian character detector
-├── data/                                     # input images / videos
-└── output/                                   # results
+
 ```
 
 ## Installation
