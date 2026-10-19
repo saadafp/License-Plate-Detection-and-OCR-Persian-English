@@ -45,35 +45,6 @@ Frame
 
 ```
 
-## Installation
-
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-pip install ultralytics easyocr opencv-python numpy pandas
-```
-
-Place your trained weights in `model/` as shown above. `yolo11n.pt` is downloaded automatically by Ultralytics on first run.
-
-## Usage
-
-**Video**
-
-```bash
-python "English license plate OCR - video v1.py"
-python "Persian License plate OCR - video v1.py"
-```
-
-Set the input path through `DATA_DIR` at the top of each script. Press `q` to stop the preview window.
-
-**Single image**
-
-```bash
-python "License plate OCR - photo.py"
-python "Persian license plate OCR - photo.py"
-```
-
-Set `DATA_DIR` and `IMG_NAME` at the top of each script.
 
 ## Configuration
 
